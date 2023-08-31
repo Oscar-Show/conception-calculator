@@ -15,7 +15,7 @@ body {
   background-color: var(--background-color);
   color: #333; /* Text color for readability */
   background-color: var(--secondary-color);
-  
+  background-image: url('background.jpg');
   
 }
 
